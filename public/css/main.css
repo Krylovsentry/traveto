@@ -1,0 +1,6 @@
+.fly-div{
+    position: fixed;
+    top: 0;
+    z-index: 1000000000;
+    left: 0;
+}
